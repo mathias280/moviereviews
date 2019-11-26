@@ -10,7 +10,10 @@ Welcome to moviereviews's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   2011_movies
+   2010_movies
+   2009_movies
+   2008_movies
 
 Indices and tables
 ==================
