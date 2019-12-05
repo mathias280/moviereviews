@@ -19,6 +19,10 @@ Movies Reviews
    2010_movies
    2009_movies
    2008_movies
+   2007_movies
+   2006_movies
+   2005_movies
+   2004_movies
 
 Indices and tables
 ==================
