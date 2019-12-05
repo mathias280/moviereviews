@@ -15,10 +15,16 @@ Movies Reviews
    :maxdepth: 2
    :caption: Contents:
 
+   2015_movies
+   2014_movies
+   2013_movies
    2011_movies
    2010_movies
    2009_movies
    2008_movies
+   2007_movies
+   2006_movies
+   2005_movies
 
 Indices and tables
 ==================
