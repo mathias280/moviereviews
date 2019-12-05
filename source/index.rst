@@ -6,18 +6,18 @@
 Movies Reviews
 ==============
 
-
-
-
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   2019_movies
+   2018_movies
+   2017_movies
+   2016_movies
    2015_movies
    2014_movies
    2013_movies
+   2012_movies
    2011_movies
    2010_movies
    2009_movies
@@ -25,10 +25,6 @@ Movies Reviews
    2007_movies
    2006_movies
    2005_movies
+   2004_movies
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

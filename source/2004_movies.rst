@@ -19,7 +19,19 @@ and Globo Gym's owner White Goodman.
 
 Napoleon Dynamite
 `````````````````
-
+Napoleon Dynamite is a quirky coming-of-age comedy
+film about an alienated teen who decides to help his
+new friend win the office of student body president at
+their high school. While all this goes on Napoleon also
+must deal with his bizarre family at home which consists
+of his injured grandmother, his brother, and eventually
+his uncle Rico.
 Saw
 ```
-
+The movie Saw follows a notorious ingenious and
+devious serial killer called “The Jigsaw Killer”
+and his victims. While following the two victims
+whom we meet in the opening scene, a parallel story
+is being played out by two detectives who are racing
+to find and catch “The Jigsaw Killer” before he strikes
+again.
