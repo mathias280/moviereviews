@@ -11,8 +11,8 @@ now those children turn adults will still sometimes pull the movie
 up for old times sake. The movie features the classic goofy characters and
 the hilarious jokes that are found in the popular TV series.
 
-    * Adventure
-      Animation
+    * Adventure,
+      Animation,
       Comedy
 
 Dodgeball: A True Underdog Story
@@ -24,7 +24,7 @@ Fleur as they battle to win a dodgeball tournament and
 its grand prize to save their gym from bankruptcy
 and **Globo Gym's** owner White Goodman.
 
-    * Sport
+    * Sport,
       Comedy
 
 
@@ -50,6 +50,6 @@ is being played out by two detectives who are racing
 to find and catch "The Jigsaw Killer" before he strikes
 again.
 
-    * Horror
-      Mystery
+    * Horror,
+      Mystery,
       Thriller

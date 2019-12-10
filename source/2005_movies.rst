@@ -14,8 +14,8 @@ movie is really focused on Charlie. Still the movie
 manages to succeed even with the mistakes and holes found
 throughout.
 
-    * Adventure
-      Comedy
+    * Adventure,
+      Comedy,
       Family
 
 Chronicles of Narnia
@@ -29,8 +29,8 @@ where they must defeat the Ice Witch to save the realm.
 The movie is wonderful fun for the children. Filled with
 magic and talking animals.
 
-    * Adventure
-      Family
+    * Adventure,
+      Family,
       Fantasy
 
 Star Wars Episode III: Revenge of the Sith
@@ -44,8 +44,8 @@ grow up and redeem the family name. In Episode III we find
 out the how and why Anakin skywalker was transformed into
 the dreaded Darth Vader.
 
-    * Action
-      Adventure
+    * Action,
+      Adventure,
       Fantasy
 
 Batman Begins
@@ -58,5 +58,5 @@ and turns into Batman, a masked hero who preys on the
 criminals and the corrupt in Gotham and to stop Ducards
 plan to wipe out evil in Gotham.
 
-    * Action
+    * Action,
       Adventure

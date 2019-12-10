@@ -14,8 +14,8 @@ Spiderwick the film makes it very easy for young kids to get
 lost in a magical world. They will find humor and sadness and
 will surely enjoy the film.
 
-    * Drama
-      Family
+    * Drama,
+      Family,
       Fantasy
 
 Shooter
@@ -30,8 +30,8 @@ and find those who crossed him. Mark perfectly plays
 the loner military sniper in this film. Perfect movie
 for those who enjoy the mystery action films.
 
-    * Action
-      Drama
+    * Action,
+      Drama,
       Thriller
 
 Ratatouille
@@ -45,8 +45,8 @@ located in Paris, France. This film is great fun for
 the kids and tells a wonderful story, simply a must
 watch for the children.
 
-    * Animation
-      Adventure
+    * Animation,
+      Adventure,
       Comedy
 
 Transformers
@@ -60,7 +60,7 @@ the humans of earth and keep the Allspark from the evil
 Decepticons. This film is great for those who love action
 packed movies with large explosions.
 
-    * Action
-      Adventure
+    * Action,
+      Adventure,
       Sci-Fi
 

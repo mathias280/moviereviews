@@ -12,8 +12,8 @@ organized crime. As this is another installment of the
 Fast and the Furious you are sure to get a healthy
 helping of crazy car action.
 
-    * Action
-      Crime
+    * Action,
+      Crime,
       Thriller
 
 Pirates of the Caribbean: Dead Man's Chest
@@ -29,8 +29,8 @@ need to enlist and save his old partners in crime
 Will Turner(Orlando Bloom) and Elizabeth Swan
 (Keira Knightley) to help him save his own life.
 
-    * Action
-      Adventure
+    * Action,
+      Adventure,
       Fantasy
 
 =======================================================          ========================
@@ -55,8 +55,8 @@ will find themselves caught up in the story of
 Lightning McQueen as he makes new friends and finds
 love. A must watch for children.
 
-    * Animation
-      Comedy
+    * Animation,
+      Comedy,
       Family
 
 300
@@ -75,6 +75,6 @@ for those who enjoy the historical action films,
 but be warned the film is very gory and features many
 bloody scenes.
 
-    * Action
-      Drama
+    * Action,
+      Drama,
       Fantasy
