@@ -47,4 +47,5 @@ genterated graphic explosion that elimenates the hostel
 threat.
 
 
-.. [#f1] "`Guardians of the Galaxy <https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)#/media/File:Guardians_of_the_Galaxy_poster.jpg:>`_". Marvel Comics. 2014. Retrieved 2019-12-03.
+.. [#f1] "`Guardians of the Galaxy <https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)#/media/File:Guardians
+_of_the_Galaxy_poster.jpg:>`_". Marvel Comics. 2014. Retrieved 2019-12-03.

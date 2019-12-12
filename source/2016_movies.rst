@@ -24,7 +24,9 @@ War Dogs
 ---------
 ..figure:: wardogs.PNG
 
-With the war in Iraq raging on, a young man (Jonah Hill) offers his childhood
+    **War Dogs** [#f1]_
+
+*With the war in Iraq raging on, a young man (Jonah Hill) offers his childhood
 friend a chance to make big bucks by becoming an international arms dealer.
 Together, they exploit a government initiative that allows businesses to bid
 on U.S. military contracts. Starting small allows the duo to rake in money and
@@ -41,7 +43,9 @@ Hell or High Water
 -------------------
 ..figure:: hellorhigh.PNG
 
-Toby is a divorced father who's trying to make a better life for his son. His brother
+    **Hell or High Water** [#f2]_
+
+*Toby is a divorced father who's trying to make a better life for his son. His brother
 Tanner is an ex-convict with a short temper and a loose trigger finger. Together,
 they plan a series of heists against the bank that's about to foreclose on their
 family ranch. Standing in their way is Marcus, a Texas Ranger who's only weeks away
@@ -58,7 +62,9 @@ Split
 ------
 ..figure:: split.PNG
 
-Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist,
+    **Split** [#f3]_
+
+*Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist,
 Dr. Fletcher, there remains one still submerged who is set to materialize and dominate a
 ll of the others, the beast. Compelled to abduct three teenage girls led by the willful,
 observant Casey, Kevin reaches a war for survival among all of those contained within him
@@ -75,7 +81,9 @@ Mike and Dave Need Wedding Dates
 ---------------------------------
 ..figure:: mikeanddave.PNG
 
-Mike and Dave Stangle are young, adventurous, fun-loving brothers who tend to get out of
+    **Mike and Dave Need Wedding Dates** [#f4]_
+
+*Mike and Dave Stangle are young, adventurous, fun-loving brothers who tend to get out of
 control at family gatherings. When their sister Jeanie reveals her Hawaiian wedding plans,
 the rest of the clan insists that they both bring respectable dates to keep them in check.
 After placing an ad on Craigslist, the siblings decide to pick Tatiana and Alice, two charming
@@ -86,3 +94,9 @@ This movie is absolutely hilarious! Adam Devine and Zac Efron play the parts of 
 as if they were actually brothers. The movie is full of one-liners that will have you rolling.
 Along with that, the movie actually has a decent plot. If you are looking for some good laughs
 and entertainment, this is the movie for you!
+
+
+.. [#f1] "`https://www.imdb.com/title/tt2005151/mediaviewer/rm3592424192`_". IMDB. 2016. Retrieved 2019-12-11.
+.. [#f2] "`https://en.wikipedia.org/wiki/Hell_or_High_Water_(2016_film)#/media/File:Hell_or_High_Water_film_poster.png`_". Wikipedia. 2016. Retrieved 2019-12-11.
+.. [#f3] "`https://en.wikipedia.org/wiki/Split_(2016_American_film)#/media/File:Split_(2017_film).jpg`_". Wikipedia. 2016. Retrieved 2019-12-11.
+.. [#f4] "`https://en.wikipedia.org/wiki/Mike_and_Dave_Need_Wedding_Dates#/media/File:Mike_and_Dave_Need_Wedding_Dates.jpg`_". Wikipedia. 2016. Retrieved 2019-12-11.
