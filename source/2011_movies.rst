@@ -4,7 +4,7 @@
 Fast Five
 `````````
 
-Fast Five is the fifth movie in the Fast and Furious
+*Fast Five* is the fifth movie in the Fast and Furious
 franchise and follows Dom, Brian, and Mia as they,
 along with their crew, fight for the freedom that they
 have always wanted. Fast Five is set in Rio De Janeiro
@@ -31,7 +31,7 @@ The Fate of the Furious                2017
 Captain America: The First Avenger
 ``````````````````````````````````
 
-Captain America: The First Avenger is an inspirational
+*Captain America: The First Avenger* is an inspirational
 movie that follows the story of Steve Rogers who is a
 soldier that gets rejected by the military because of
 the fact that he is so small. He then takes an
@@ -41,7 +41,7 @@ who is then called Captain America.
 Thor
 ````
 
-Thor follows the son of Odin on a journey that starts
+*Thor* follows the son of Odin on a journey that starts
 from where he is about to be crowned the king of Asgard
 to then being banished to the planet Earth. Thor must
 then find a way to regain the throne from his evil
@@ -50,7 +50,7 @@ brother Loki.
 Cars 2
 ``````
 
-Cars 2 is back again with more adventures from
+*Cars 2* is back again with more adventures from
 Lightning McQueen and Mater. Cars 2 introduces a whole
 new adventure with Lightning McQueen chasing the World
 Grand Prix. Meanwhile Mater is on his own adventure
