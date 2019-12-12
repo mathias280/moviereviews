@@ -54,7 +54,7 @@ breaks the family apart so they must find a way to
 bring their mom and dad back together.
 
 .. figure:: stepbrothers.jfif
-    :width: 100%
+    :width: 50%
 
     Step Brothers [#f1]_
 
