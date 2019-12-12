@@ -1,6 +1,9 @@
 2004 Movie Reviews
 ==================
 
+.. figure:: dodgeball.jpg
+ Dodgeball: A True Underdog Story [#f1]_
+
 Spongebob Squarepants Movie
 ```````````````````````````
 *The Spongebob Squarepants Movie* still brings
@@ -53,3 +56,6 @@ again.
     * Horror,
       Mystery,
       Thriller
+
+
+.. [#f1] ".. [#f1] "Movies In Theaters and Coming Soon: Shop for Movies on Blu-ray, DVD, 4K Ultra HD, or Digital. (n.d.). Retrieved December 12, 2019, from https://www.foxmovies.com/.". 20th century Fox. 2004. Retrieved 2019-12-12.".
