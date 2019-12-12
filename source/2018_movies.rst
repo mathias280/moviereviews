@@ -22,7 +22,7 @@ Avengers Infinity War
 ----------------------
 .. figure:: infinitywar.PNG
 
-    **Avengers Infinity War** [#f1]_
+**Avengers Infinity War** [#f1]_
 
    * In this firm, the Avengers unite to battle their most powerful enemy yet, the evil Thanos.
      On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict
@@ -42,7 +42,7 @@ Creed II
 ---------
 .. figure:: creed.PNG
 
-    **Creed II** [#f2]_
+**Creed II** [#f2]_
 
     * In 1985, Russian boxer Ivan Drago killed former U.S. champion Apollo Creed in a tragic match that stunned
       the world. In this film, against the wishes of trainer Rocky Balboa, we see Apollo's son Adonis Johnson
@@ -61,7 +61,7 @@ Halloween
 ----------
 .. figure:: halloween.PNG
 
-    **Halloween** [#f3]_
+**Halloween** [#f3]_
 
    * It's been 40 years since Laurie Strode survived a vicious attack from crazed killer Michael Myers on Halloween
      night. Locked up in an institution, Myers manages to escape when his bus transfer goes horribly wrong. Laurie
@@ -76,7 +76,7 @@ The Black Panther
 ------------------
 .. figure:: blackpanther.PNG
 
-    **The Black Panther** [#f4]_
+**The Black Panther** [#f4]_
 
    * After the death of his father, T'Challa returns home to the African nation of Wakanda to take his
      rightful place as king. That is, until a powerful enemy suddenly reappears. T'Challa's faces adversity

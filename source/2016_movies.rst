@@ -24,7 +24,7 @@ War Dogs
 ---------
 .. figure:: wardogs.PNG
 
-    **War Dogs** [#f1]_
+**War Dogs** [#f1]_
 
    * With the war in Iraq raging on, a young man (Jonah Hill) offers his childhood
      friend a chance to make big bucks by becoming an international arms dealer.
@@ -43,7 +43,7 @@ Hell or High Water
 -------------------
 .. figure:: hellorhigh.PNG
 
-    **Hell or High Water** [#f2]_
+**Hell or High Water** [#f2]_
 
    * Toby is a divorced father who's trying to make a better life for his son. His brother
      Tanner is an ex-convict with a short temper and a loose trigger finger. Together,
@@ -62,7 +62,7 @@ Split
 ------
 .. figure:: split.PNG
 
-    **Split** [#f3]_
+**Split** [#f3]_
 
     * Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist,
       Dr. Fletcher, there remains one still submerged who is set to materialize and dominate a
@@ -81,7 +81,7 @@ Mike and Dave Need Wedding Dates
 ---------------------------------
 .. figure:: mikeanddave.PNG
 
-    **Mike and Dave Need Wedding Dates** [#f4]_
+**Mike and Dave Need Wedding Dates** [#f4]_
 
     * Mike and Dave Stangle are young, adventurous, fun-loving brothers who tend to get out of
       control at family gatherings. When their sister Jeanie reveals her Hawaiian wedding plans,

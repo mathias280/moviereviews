@@ -25,7 +25,7 @@ Avengers Endgame
 ----------------
 .. figure:: endgame.PNG
 
-    **Avengers Endgame** [#f1]_
+**Avengers Endgame** [#f1]_
 
    * Avengers Endgame is the sequel to Avengers Infinity War. The movie is a
      culmination of a decade of blockbuster film making. This is supposed to be the
@@ -53,7 +53,7 @@ Joker
 ------
 .. figure:: joker.PNG
 
-    **Joker** [#f2]_
+**Joker** [#f2]_
 
    * Played by Joaquin Phoenix, Arthur Fleck is a failed comedian feeling alone in a crowd and seeking
      connection as he walks the streets of Gotham City. Isolated, bullied and disregarded by society,
@@ -84,9 +84,9 @@ Spider-Man Far from Home
 -------------------------
 .. figure:: farfromhome.PNG
 
-    **Spider-Man Far from Home** [#f3]_
+**Spider-Man Far from Home** [#f3]_
 
-    * Spider-Man Far from Home takes place after the events of Avengers: Endgame. In the first Marvel movie after
+  * Spider-Man Far from Home takes place after the events of Avengers: Endgame. In the first Marvel movie after
       Endgame, Tom Holland as Peter Parker and his classmates return to school in a post-“snap” world. As Peter
       and his pals prepare for a school trip to Europe, Nick Fury (Samuel L. Jackson), Maria Hill (Cobie Smulders),
        and what's left of S.H.I.E.L.D. investigate a bizarre "storm with a face". With many heroes taking a break
@@ -107,7 +107,7 @@ Extremely Wicked, Shockingly Evil, and Vile
 ---------------------------------------------
 .. figure:: tedbundy.PNG
 
-    **Extremely Wicked, Shockingly Evil, and Vile** [#f4]_
+**Extremely Wicked, Shockingly Evil, and Vile** [#f4]_
 
     * This film is a chronicle of the crimes of Ted Bundy from the perspective of Liz, his longtime girlfriend, who
       refused to believe the truth about him for years. Played by Zac Efron, the movie highlights the mysterious

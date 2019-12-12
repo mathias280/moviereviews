@@ -21,7 +21,7 @@ Get Out
 --------
 .. figure:: getout.PNG
 
-    **Get Out** [#f1]_
+**Get Out** [#f1]_
 
     * Now that Chris (Daniel Kaluuya) and his girlfriend, Rose (Allison Williams),
       have reached the meet-the-parents milestone of dating, she invites him for a
@@ -42,7 +42,7 @@ Spider-Man Homecoming
 ----------------------
 .. figure:: homecoming.PNG
 
-    **Spider-Man Homecoming** [#f2]_
+**Spider-Man Homecoming** [#f2]_
 
    * Thrilled by his experience with the Avengers, young Peter Parker returns home to live
      with his Aunt May. Under the watchful eye of mentor Tony Stark, Parker starts to embrace
@@ -61,7 +61,7 @@ Jumanji
 --------
 .. figure:: jumanji.PNG
 
-    **Jumanji** [#f3]_
+**Jumanji** [#f3]_
 
    * When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter
      the game to bring him home. But everything about Jumanji is about to change, as they soon discover more
@@ -76,7 +76,7 @@ American Made
 ---------------
 .. figure:: americanmade.PNG
 
-    **American Made** [#f4]_
+**American Made** [#f4]_
 
     * Barry Seal, a TWA pilot, is recruited by the CIA to provide reconnaissance on the burgeoning communist
       threat in Central America and soon finds himself in charge of one of the biggest covert CIA operations
