@@ -6,8 +6,6 @@ Wreck-It Ralph
 
 **The Good Bad Guy**
 
-.. _a link: https://www.youtube.com/watch?v=HrMuSGQ0fDI
-
 Arcades characters come to life after the arcade closes.
 Wreck-It Ralph is an emotionally disturb character that
 goes on a quest for a "Gold Medal" because he wants to
