@@ -10,6 +10,18 @@ DA Harvey Dent. But when a new player called the Joker
 comes into the mix Batman finds himself going closer
 and closer to the evil he swore to rid the city of.
 
+**The main characters**
+
+   * Batman
+
+   * Two-face
+
+   * Scarecrow
+
+   * Joker
+
+   * Commissioner Gordon
+
 WALL-E
 ``````
 
@@ -40,3 +52,11 @@ lazy grown-up sons who live in their parents basements.
 When the families combine the step brothers rivalry
 breaks the family apart so they must find a way to
 bring their mom and dad back together.
+
+.. figure:: stepbrothers.jfif
+    :width: 100%
+
+    Step Brothers [#f1]_
+
+.. [#f1] STEP BROTHERS. (n.d.). Retrieved from https://www.sonypictures.com/movies/stepbrothers.
+
